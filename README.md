@@ -13,4 +13,4 @@ The code provided to me included three files. Two Python files and a JuypterNote
 <br>This is a Python class file that is utilized to represent the enviroment of the maze, defined as a matrix. It also handles the state of the maze as the agent navigates it, providing rewards for each movement. <br>
 
 * GameExperience.py
-<br> This is a Python class that is utized to store the episodes dur
+<br> This is a Python class that is utized to store the episodes during training and to be utilized through training for exploration. As the model completes its training, it can pull from this class to 
